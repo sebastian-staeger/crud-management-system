@@ -1,0 +1,10 @@
+[[pages]]
+path = "src/views/home.py"
+name = "Home"
+icon = ":house:"
+
+[[pages]]
+path = "src/views/operations.py"
+name = "Operations"
+icon = ":fencer:"
+url_path = "opertaions" # You can override the default url path for a page
